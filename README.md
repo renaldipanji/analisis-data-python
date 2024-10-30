@@ -23,7 +23,7 @@ Proyek ini berfokus pada analisis Bike Sharing Dataset untuk menggali berbagai p
 1. Clone repository ini ke komputer lokal Anda menggunakan perintah berikut:
 
    ```shell
-   git clone https://github.com/renaldipanji
+   git clone https://github.com/renaldipanji/analisis-data-python.git
    ```
 
 2. Pastikan Anda memiliki lingkungan Python yang sesuai dan pustaka-pustaka yang diperlukan. Anda dapat menginstal pustaka-pustaka tersebut dengan menjalankan perintah berikut:
