@@ -40,4 +40,4 @@ Proyek ini berfokus pada analisis Bike Sharing Dataset untuk menggali berbagai p
     cd bike-sharing/dashboard/
     streamlit run dashboard.py
     ```
-    Atau bisa dengan kunjungi website ini [Project Data Analytics]
+    Atau bisa dengan kunjungi website ini [Project Data Analytics](https://renaldi-bike-sharing.streamlit.app/)
