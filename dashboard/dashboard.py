@@ -17,8 +17,8 @@ def sum_order(hour_df):
 
 
 # Membaca data
-days_df = pd.read_csv("day_clean.csv")
-hours_df = pd.read_csv("hour_clean.csv")
+days_df = pd.read_csv("dashboard/day_clean.csv")
+hours_df = pd.read_csv("dashboard/hour_clean.csv")
 
 datetime_columns = ["dteday"]
 days_df["dteday"] = pd.to_datetime(days_df["dteday"])
